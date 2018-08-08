@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2012\Projects\RS485Test\RS485Test\bin\Debug\RS485Test.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\RS485Test\RS485Test\obj\Debug\RS485Test.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\RS485Test\RS485Test\obj\Debug\RS485Test.Form1.resources
+c:\users\admin\documents\visual studio 2012\Projects\RS485Test\RS485Test\obj\Debug\RS485Test.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\RS485Test\RS485Test\obj\Debug\RS485Test.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\RS485Test\RS485Test\bin\Debug\RS485Test.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\RS485Test\RS485Test\bin\Debug\RS485Test.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\RS485Test\RS485Test\obj\Debug\RS485Test.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\RS485Test\RS485Test\obj\Debug\RS485Test.pdb
